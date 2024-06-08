@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(211, 252, 238);
+}
 .header {
     justify-content: center;
     text-align:center;
@@ -9,7 +12,13 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    line-height:200%
+    line-height:200%;
+}
+.exam_table {
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
 }
 footer {
     padding-top: 3px;
